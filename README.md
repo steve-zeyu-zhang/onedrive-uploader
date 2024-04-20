@@ -15,6 +15,8 @@ just download the release, and do `/home/remote/u7394442/onedrive-uploader_linux
 
 You don't need to install Go, build, stupid ass motherfuck!
 
+> But still useless, since ANU doesn't give you the access to Azure, so you cannot get the client ID of ANU Onedrive. The upload of file from HPC still remain not addressed.
+
 
 
 ## Features
