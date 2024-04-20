@@ -7,6 +7,16 @@
 
 Command line (CLI) utility for uploading files to Microsoft OneDrive using the Microsoft Graph REST API.
 
+## Correct way to use it
+
+You don't need any sudo
+
+just download the release, and do `/home/remote/u7394442/onedrive-uploader_linux_amd64_v0.8.0`
+
+You don't need to install Go, build, stupid ass motherfuck!
+
+
+
 ## Features
 * Upload, download and delete files
 * Create and delete directories
